@@ -13,7 +13,7 @@ To read data
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/BLE/image_5.png" alt="general view" title="general view" width="50%" height="50%">
 
 #### How it Works  
-Just need to switch on the device, and data can be received via BLE on a mobile phone or in PC   
+Just need to switch on the device, and data can be received via BLE on a mobile phone or on PC   
 
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/BLE/app.png" alt="general view" title="general view" width="50%" height="50%">
 
@@ -62,9 +62,7 @@ Original paper.
 Rakhmatulin, I. IronBCI: A Low-Cost, Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping. Preprints 2025, 2025071198. https://www.preprints.org/manuscript/202507.1198/v1  
  
 #### Contacts   
-Documentation https://pieeg.com/docs/docs/  
 https://pieeg.com/   
 pieeg@pieeg.com  
-Any questions about EEG, join Discord https://discord.gg/RnCdpwbywx  (more than 500 neuro enthusiast)  
 
 To Buy - Available on the [market](https://pieeg.com/ironbci/) via our partner  
