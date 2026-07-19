@@ -48,11 +48,19 @@ ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
 
 
+#### Warnings
+>[!WARNING]
+> PiEEG  is not medical device. You are fully responsible for your personal decision to purchase this device and, ultimately, for its safe use. PiEEG is not a medical device and has not been certified by any government regulatory agency for use with the human body. Use it at your own risk.  
+
+>[!CAUTION]
+> The device must operate only from a battery - 5 V. Complete isolation from the mains power is required.! The device MUST not be connected to any kind of mains power, via USB or otherwise.   
+> Power supply - only battery 5V, please read the [liability](https://pieeg.com/liability/)
+>
+
 #### Citation  
 Original paper. 
 Rakhmatulin, I. IronBCI: A Low-Cost, Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping. Preprints 2025, 2025071198. https://www.preprints.org/manuscript/202507.1198/v1  
  
-
 #### Contacts   
 Documentation https://pieeg.com/docs/docs/  
 https://pieeg.com/   
