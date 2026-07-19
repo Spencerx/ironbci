@@ -1,6 +1,4 @@
 # Brain-Computer Interface ironbci 
-Now you can buy a Low-cost brain-computer interface (non-invasive EEG system)  
-
 Low-cost Wearable BLE 8 channels for dry and wet electrodes, brain-computer interface with mobile app (SDK) and Python      
 
 To read data   
@@ -64,5 +62,3 @@ Rakhmatulin, I. IronBCI: A Low-Cost, Open-Source BCI Platform with Mobile SDK fo
 #### Contacts   
 https://pieeg.com/   
 pieeg@pieeg.com  
-
-To Buy - Available on the [market](https://pieeg.com/ironbci/) via our partner  
