@@ -1,4 +1,4 @@
-# Low-Cost Open-source Brain-Computer Interface ironbci available in the [market](https://pieeg.com/ironbci/)
+# Brain-Computer Interface ironbci 
 Now you can buy a Low-cost brain-computer interface (non-invasive EEG system)  
 
 Low-cost Wearable BLE 8 channels for dry and wet electrodes, brain-computer interface with mobile app (SDK) and Python      
@@ -50,9 +50,6 @@ ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
 
 
-
-
-
 #### Citation  
 Original paper. 
 Rakhmatulin, I. IronBCI: A Low-Cost, Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping. Preprints 2025, 2025071198. https://www.preprints.org/manuscript/202507.1198/v1  
@@ -64,3 +61,4 @@ https://pieeg.com/
 pieeg@pieeg.com  
 Any questions about EEG, join Discord https://discord.gg/RnCdpwbywx  (more than 500 neuro enthusiast)  
 
+To Buy - Available on the [market](https://pieeg.com/ironbci/) via our partner  
