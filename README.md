@@ -5,10 +5,7 @@ To read data
 [SKD](https://github.com/pieeg-club/ironbci/tree/master/SDK) for Python   
 [SDK](https://github.com/pieeg-club/ironbci/tree/master/mobile_app) for Android     
 [3D printer design](https://github.com/pieeg-club/ironbci_3D_EEG_Printable_Headset) for Headset    
-
-3 boards connected in one battery, digital and analog boards                              
-​
-<img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/BLE/image_5.png" alt="general view" title="general view" width="50%" height="50%">
+                          
 
 #### How it Works  
 Just need to switch on the device, and data can be received via BLE on a mobile phone or on PC   
