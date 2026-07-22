@@ -16,9 +16,6 @@ Just need to switch on the device, and data can be received via BLE on a mobile 
 ![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/schem.jpg "stm32")
 
 
-The framework can be changed and uploaded via ST-Link  
-![alt tag](https://github.com/Ildaron/ironbci/blob/master/Supplementary%20files/stl1.bmp "stm32")
-
 #### Chewing  and blinking artifacts  
 Dry Electrodes Ag/AgCl, without Gel        
 Raw data, 250 samples per second       
