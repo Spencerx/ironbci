@@ -1,15 +1,7 @@
 # Brain-Computer Interface ironbci 
 Low-cost Wearable BLE 8 channels for dry and wet electrodes, brain-computer interface with mobile app (SDK) and Python      
 
-To read data   
-[SKD](https://github.com/pieeg-club/ironbci/tree/master/SDK) for Python   
-[SDK](https://github.com/pieeg-club/ironbci/tree/master/mobile_app) for Android     
-[3D printer design](https://github.com/pieeg-club/ironbci_3D_EEG_Printable_Headset) for Headset    
-                          
-
-#### How it Works  
-Just need to switch on the device, and data can be received via BLE on a mobile phone or on PC   
-
+                      
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/BLE/app.png" alt="general view" title="general view" width="50%" height="50%">
 
 #### Electrode Connection 
@@ -39,6 +31,10 @@ How to program a brain-computer interface - ironBCI, a low-cost brain-computer i
 ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server)  
 <img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
 
+Aslo   
+[SKD](https://github.com/pieeg-club/ironbci/tree/master/SDK) for Python   
+[SDK](https://github.com/pieeg-club/ironbci/tree/master/mobile_app) for Android     
+[3D printer design](https://github.com/pieeg-club/ironbci_3D_EEG_Printable_Headset) for Headset     
 
 #### Warnings
 >[!WARNING]
